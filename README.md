@@ -1,14 +1,15 @@
 SALES PERFORMANCE AND OUTLIER ANALYSIS DASHBOARD
+
 Overview
 This project involved conducting an Exploratory Data Analysis (EDA) on a retail sales dataset using Power BI to uncover trends, identify outliers, and generate actionable business insights. The dashboard was designed to provide a clear view of revenue performance, product sales, referral source effectiveness, and order status distribution.
-________________________________________
+
 Objectives
 •	Analyze sales trends and performance. 
 •	Calculate descriptive statistics. 
 •	Detect outliers using the IQR method. 
 •	Evaluate product and referral source performance. 
 •	Build an interactive Power BI dashboard. 
-________________________________________
+
 Dataset
 The dataset contains transactional sales records including:
 •	Order ID 
@@ -20,7 +21,7 @@ The dataset contains transactional sales records including:
 •	Order Status 
 •	Referral Source 
 •	Total Price 
-________________________________________
+
 Dashboard Features
 KPIs
 •	Total Revenue ($1.52M) 
@@ -39,7 +40,7 @@ Visualizations
 Interactive Filter
 •	Order Status Slicer (Delivered, Shipped, Pending, Returned, Cancelled) 
 The slicer dynamically updates all visuals and KPI cards across the dashboard.
-________________________________________
+
 Key Insights
 •	Total revenue generated was approximately $1.52 million from 1.2K orders. 
 •	Revenue showed a declining trend between 2023 and 2025. 
@@ -48,7 +49,7 @@ Key Insights
 •	Chairs, Printers, and Laptops were the highest-performing products. 
 •	Using the IQR method, 8 outlier transactions were identified. 
 •	Outliers contributed approximately 2% of total revenue. 
-________________________________________
+
 Tools & Skills
 Tools
 •	Power BI 
@@ -62,7 +63,7 @@ Skills Demonstrated
 •	Dashboard Development 
 •	Outlier Detection 
 •	Business Intelligence Reporting 
-________________________________________
+
 Author
 Judith Chinazaekpere Ogbodo
 Power BI Data Analysis Project completed as part of an ongoing Data Analytics Internship, applying analytical thinking and business intelligence techniques to transform raw sales data into actionable insights.
